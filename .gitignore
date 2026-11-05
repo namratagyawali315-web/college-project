@@ -1,0 +1,9 @@
+node_modules/
+.env
+backend/uploads/
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.opencode/
+TODO.md
